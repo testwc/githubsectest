@@ -13,5 +13,11 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('hello@xiaomi.com')
     print_hi('password=123456')
+    print_hi('accesskey=ewqewtgdagsdfadsfaewrwe32rff')
+    print_hi('url=jdbc:mysql')
+    print_hi('url="b2c.srv')
+    print_hi('url=relay.xiaomi.com')
+    print_hi('url=hello.mioffice.cn')
+
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
