@@ -34,6 +34,9 @@ if __name__ == '__main__':
     print_hi('url=relay.xiaomi.com')
     print_hi('url=hello.mioffice.cn')
     print_hi('url=')
+    print_hi('url=www.mioffice.cn')
+    print_hi('mail=nani@xiaomi.com')
+    print_hi('password=Wtf?yfd?')
     hello()
 
 
